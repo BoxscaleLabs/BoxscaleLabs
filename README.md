@@ -1,4 +1,4 @@
-### 🏛 Boxscale Lab | Bruce Marshall
+### 🏛 Boxscale Labs | Bruce Marshall
 
 I am a minimalist software developer and Security Researcher with 20 years of experience building high-scale peformant systems for major tech companies. I founded **Boxscale Labs** as an R&D hub to share innovations that prioritize performance and security over bloat.
 
