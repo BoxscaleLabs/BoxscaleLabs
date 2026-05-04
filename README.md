@@ -1,8 +1,6 @@
 ## Boxscale Labs | Bruce Marshall 👋
 
-> **"Give me a 5MB kernel and I will build from there."**
-
-Minimalist software developer and **Security Researcher** with 20 years of experience building high-scale, **performant** systems for major tech companies. I founded **Boxscale Labs** as an R&D hub to share innovations that prioritize performance and security over bloat.
+Minimalist software developer and **Security Researcher** with 20 years of experience building high-scale, performant systems for major tech companies. I founded **Boxscale Labs** as an R&D hub to share innovations that prioritize performance and security over bloat.
 
 ### 🏛 The Philosophy
 I believe that **minimalism is the ultimate defense** against technical debt and security vulnerabilities. By building only what is necessary, I reduce the attack surface and ensure every line of code is both performant and auditable.
