@@ -13,7 +13,7 @@ I believe that **minimalism is the ultimate defense** against technical debt and
 ### 🛠 The Boxscale Stack
 *   **Systems & Security:** Rust, C, Go, Python, Java (in that order)
 *   **Environments:** Linux Kernel, Virtualization, Kubernetes, Homegrown
-*   **Current Lab Focus:** Open-source, hardened kernels, security scanners, performance tuning, and HFT software.
+*   **Current Lab Focus:** Open-source, hardened kernels, security scanners, performance tuning, HFT software, SecOps, DevOPS, and AI Research.
 
 ### 📫 Connect
 *   **Location:** Malibu, CA
