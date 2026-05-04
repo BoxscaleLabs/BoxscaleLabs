@@ -11,7 +11,7 @@ I believe that **minimalism is the ultimate defense** against technical debt and
 *   📉 **Debt Control:** Eliminating "bloatware" to ensure clarity and safety.
 
 ### 🛠 The Boxscale Stack
-*   **Systems & Security:** Rust, C, Go, Python, Java (in that order)
+*   **Systems & Security:** Rust, C, Go, Python, Java 
 *   **Environments:** Linux Kernel, Virtualization, Kubernetes, Homegrown
 *   **Current Lab Focus:** Open-source, hardened kernels, security scanners, performance tuning, HFT software, SecOps, DevOPS, and AI Research.
 
